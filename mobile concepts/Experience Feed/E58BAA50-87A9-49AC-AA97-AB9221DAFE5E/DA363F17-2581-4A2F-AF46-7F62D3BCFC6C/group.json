@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA363F17-2581-4A2F-AF46-7F62D3BCFC6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D27B3491-3F5F-4DF4-AFFB-757ABD0E44A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BA3D9926-32A9-4B98-B0F0-D5656171E59F",
+    "height": 845,
+    "width": 405,
+    "x": 58,
+    "y": 55
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1DF427E4-E304-4AE8-97C6-AF55A0EE74CC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DD411E18-C61F-4CD0-8202-9CDEF6D140CD"
+    }
+  ],
+  "name": "iphone x light 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E954BFDC-C2DF-4B8E-AD3C-0B0EC0321C6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

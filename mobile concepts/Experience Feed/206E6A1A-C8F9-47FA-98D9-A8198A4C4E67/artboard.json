@@ -36,15 +36,15 @@
     "do_objectID": "9EADFE94-C576-446B-BC18-4348594C5B77",
     "height": 812,
     "width": 375,
-    "x": 762,
-    "y": -421
+    "x": 1022,
+    "y": -451
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "CCD51902-9EA5-4057-BBAB-5DD98A40A9E3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -80,16 +80,16 @@
       "id": "3D186503-EA6E-4479-A60F-B39BE076D26C"
     },
     {
-      "class": "group",
-      "id": "F1866301-2417-4057-AAED-428DEA48A920"
-    },
-    {
       "class": "symbolInstance",
       "id": "9ACCF429-6DA5-43EE-AABE-DB6CCC6FE14B"
     },
     {
       "class": "symbolInstance",
       "id": "9FD094BC-429B-473C-909E-51B41855E748"
+    },
+    {
+      "class": "group",
+      "id": "F1866301-2417-4057-AAED-428DEA48A920"
     }
   ],
   "name": "Fundit Experience Feed",
