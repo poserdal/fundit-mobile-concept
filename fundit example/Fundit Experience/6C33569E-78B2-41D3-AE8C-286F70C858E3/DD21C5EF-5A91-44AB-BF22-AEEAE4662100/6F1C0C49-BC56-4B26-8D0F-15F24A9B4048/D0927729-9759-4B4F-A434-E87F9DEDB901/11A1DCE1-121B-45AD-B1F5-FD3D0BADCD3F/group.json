@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "11A1DCE1-121B-45AD-B1F5-FD3D0BADCD3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9651F23B-8BF5-47C9-AED6-2628EB0FA986",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D3B39A99-EF93-4C78-BAC2-DCC0B5E40716",
+    "height": 15,
+    "width": 15,
+    "x": 5,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "60408FF1-760C-4FFF-9692-C12311623C64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94732525-A07E-4AD2-917D-B6CEA739B904"
+    }
+  ],
+  "name": "feather-star",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1A13778-335E-4F81-AA2D-7D487F16D193",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

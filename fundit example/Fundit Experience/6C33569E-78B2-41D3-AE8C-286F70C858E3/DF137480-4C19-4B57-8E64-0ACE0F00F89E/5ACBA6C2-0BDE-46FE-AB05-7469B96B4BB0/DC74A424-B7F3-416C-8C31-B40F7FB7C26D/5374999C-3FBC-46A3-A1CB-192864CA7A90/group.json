@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5374999C-3FBC-46A3-A1CB-192864CA7A90",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1ED79735-78C4-4603-AC56-1BFE88433ADC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2E49C494-14B4-4CB1-A72D-A3216BFA746C",
+    "height": 15,
+    "width": 15,
+    "x": 5,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0FD3F9AC-BB6B-4CC5-9618-3C0599432C40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12AB9192-5B55-473D-A03F-9957BBCE0EBA"
+    }
+  ],
+  "name": "feather-message-circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C077EF2-EF49-4314-AA68-917DBB30237A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9998798966407776,
+    "green": 1,
+    "red": 0.9999018311500549
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 252,
+  "do_objectID": "809217AE-F02E-48EF-91F5-C0D76BBAC5F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 100,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "34254447-27ED-427B-940F-081182CE206E"
+    },
+    {
+      "class": "group",
+      "id": "D5322D6D-7FB0-4C51-9267-C034DC6EDA36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D5B62B1-D5D0-484B-835B-510A05021F9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52FAE4C6-2EE8-4876-A5FF-867B737AA6AC"
+    },
+    {
+      "class": "group",
+      "id": "23697B49-02D7-4046-82EC-0799926C21A8"
+    }
+  ],
+  "name": "1. Bars / 1. Status Bar / iPhone X",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "98980A6A-A9B8-4980-99F1-9DA49A5DF7F2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

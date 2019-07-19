@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7D878D0D-C0C3-4B67-82D7-43A0320F7AC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2B02A72-C8EF-45B5-B1F2-5167A35C0D96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A20A8EC9-8B6E-479A-82D3-ABAFFD601420",
+    "height": 269,
+    "width": 403,
+    "x": 13,
+    "y": -42
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ffdbd90c2e4c7db681e3bdfea730c758bb5def77.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "joshua-reddekopp-9BpTTLoTv9w-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "239F7C03-BDF6-4713-B3F0-747697D87CCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

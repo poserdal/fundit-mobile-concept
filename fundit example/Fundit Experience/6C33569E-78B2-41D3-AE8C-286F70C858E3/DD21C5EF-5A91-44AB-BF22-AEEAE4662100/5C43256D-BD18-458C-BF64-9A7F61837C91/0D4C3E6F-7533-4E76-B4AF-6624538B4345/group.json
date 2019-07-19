@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "0D4C3E6F-7533-4E76-B4AF-6624538B4345",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "444BFD64-D900-4B6F-8F0B-33CE9DCC73D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E26FEF3C-1BEC-475B-BA54-E7A56316906D",
+    "height": 37,
+    "width": 314,
+    "x": 16,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DBB72594-5156-4616-B13B-310ABDD81E37"
+    },
+    {
+      "class": "text",
+      "id": "B327CA45-7284-4BCA-94BF-E1F8C9EDA1A7"
+    },
+    {
+      "class": "text",
+      "id": "19840941-4970-48A2-8B08-22D0295DBE4B"
+    }
+  ],
+  "name": "Impact",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67F33F5B-5A7D-4305-ABA4-A1BBAB8C1582",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
