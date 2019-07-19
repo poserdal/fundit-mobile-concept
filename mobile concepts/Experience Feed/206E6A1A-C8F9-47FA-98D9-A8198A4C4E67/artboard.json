@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9998798966407776,
+    "do_objectID": "72CA7A78-742D-42FC-A94D-8EEE0A30A778",
+    "green": 1,
+    "red": 0.9999018311500549
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "206E6A1A-C8F9-47FA-98D9-A8198A4C4E67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8606E561-F71A-4FE3-A574-40684F5FAF68",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EADFE94-C576-446B-BC18-4348594C5B77",
+    "height": 812,
+    "width": 375,
+    "x": 762,
+    "y": -421
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CCD51902-9EA5-4057-BBAB-5DD98A40A9E3"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A6B7744-BB8A-4519-AD5D-036EFB9AC5CB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A4BDEF27-38B7-4AC8-BD82-2C7EC30D00EC"
+    },
+    {
+      "class": "group",
+      "id": "4B9D51D9-58FF-4D38-AADD-5C9DE12620D4"
+    },
+    {
+      "class": "group",
+      "id": "05CCB843-634B-4586-92E3-A128B4AB74A0"
+    },
+    {
+      "class": "group",
+      "id": "3D186503-EA6E-4479-A60F-B39BE076D26C"
+    },
+    {
+      "class": "group",
+      "id": "F1866301-2417-4057-AAED-428DEA48A920"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ACCF429-6DA5-43EE-AABE-DB6CCC6FE14B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FD094BC-429B-473C-909E-51B41855E748"
+    }
+  ],
+  "name": "Fundit Experience Feed",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "981E705B-906F-484A-A443-2B6C23E5F1E1",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9998798966407776,
+          "green": 1,
+          "red": 0.9999018311500549
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "927C8BF6-E524-4BB4-B58F-7FC8EBFC4F40",
+    "guides": [
+    ]
+  }
+}

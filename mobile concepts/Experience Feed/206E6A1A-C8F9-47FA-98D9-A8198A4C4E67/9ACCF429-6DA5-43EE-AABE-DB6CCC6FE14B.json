@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9ACCF429-6DA5-43EE-AABE-DB6CCC6FE14B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AA74FCD-5E01-40FA-BBFD-DDD3448FADBA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C684A05C-3568-4FFB-AFB3-8A2C57DE91CB",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1. Bars / 1. Status Bar / iPhone X",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78AD3F8D-51D8-4408-AF90-AB8ABB0A38A3",
+      "overrideName": "A3901263-9B7C-4EC6-931B-5DDE36639779_layerStyle",
+      "value": "E70DF0D0-251A-40FE-B327-8E8641E483B9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDFE50F8-A2BB-4FF5-B924-28E5AC729B70",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6FC665B7-BF4B-4822-B095-D5CE3B6CF2EF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A1B7490-E836-4D4C-B285-B33071D69F05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E3BED71-FAD6-4578-AAE9-4B7B46FE3D03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE93C681-CA98-484D-B3D5-7467E4924EEA",
+    "height": 34,
+    "width": 375,
+    "x": 0,
+    "y": 778
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1. Bars / 5. Home Indicator",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E224E9A3-F74E-4F2E-87BB-4FDBB090FEA1",
+      "overrideName": "1B95F2EB-0274-4345-AF63-92F1BFD2B378_layerStyle",
+      "value": "E70DF0D0-251A-40FE-B327-8E8641E483B9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A52ACB7D-6778-4DB0-A85F-93DE35AEDEF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F83DD4E2-C0DC-46DA-B72B-557E5CC0A616",
+  "verticalSpacing": 0
+}
